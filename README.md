@@ -26,4 +26,42 @@ Interesting fact - you can put any of **your own images**. The main thing is tha
 To use your own image, name it "**astra_yao.png**" and replace it in the directory where the executable file "**Astra Yao Crosshair.exe**" is located.
 
 
-## Install project
+## 🚀 Installing
+
+Follow these steps to set up and run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+```
+
+### 2. Create a virtual environment
+```bash
+python -m venv venv
+```
+
+### 3. Activate the virtual environment
+On Windows:
+```bash
+venv\Scripts\activate
+```
+On Linux/MacOS:
+```bash
+source venv/bin/activate
+```
+
+### 4. Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### 5. Run the project
+```
+python main.py
+```
+
+## 🎉 That's it!
+You can also improve the program by adding additional features.
+
+If you liked this app at all, please give it a **star** rating (´ ω `♡). I would be very grateful.
