@@ -34,8 +34,8 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/Hitoshi144/Astra_Yao_Crosshair.git
+cd Astra_Yao_Crosshair
 ```
 
 ### 2. Create a virtual environment
