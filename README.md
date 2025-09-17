@@ -28,6 +28,8 @@ To use your own image, name it "**astra_yao.png**" and replace it in the directo
 
 ## 🚀 Installing
 
+**You can download the archive with the latest version of the program on the [releases page](https://github.com/Hitoshi144/Astra_Yao_Crosshair/releases)**
+
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the repository
